@@ -4,7 +4,7 @@
 
 
 var BasecoinName= "BNB"; 
-var TokenName="Moon"      //your token name
+var TokenName="BullChainAI"      //your token name
 
 var ChainID= 56;          //find this on https://cryptodapprun.github.io/Blockchain-To-Metamask/
 var ChainName= "Binance"; //find this on  https://cryptodapprun.github.io/Blockchain-To-Metamask/
