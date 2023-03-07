@@ -11,5 +11,5 @@ var ChainName= "Binance"; //find this on  https://cryptodapprun.github.io/Blockc
 
 
 var BlockchainScanURL="https://bscscan.com/tx/";  //blockchain RPC url 
-var contractAdress="0xD32F1544c36D0942De599Bb1c8b36F940e2f9853"  //deploy contract/SwapToken.sol,then you will get the address
-var TokenAddress  ="0x0F6FC13d26EeA45d3cdA81bCBcb0b7bE711BA3fE"  //your token address
+var contractAdress="0x4a4BF3a7Bf0b1fa31c8F0Bf72ff6BA42c51b7417"  //deploy contract/SwapToken.sol,then you will get the address
+var TokenAddress  ="0x62B427DaA6DCe1bea02F74AE09f6b7e82Bd860e5"  //your token address
